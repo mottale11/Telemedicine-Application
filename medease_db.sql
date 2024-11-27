@@ -45,6 +45,6 @@ CREATE TABLE admin(
 );
 
 
--- Sampla Data for Testing
+-- Some Sampla Data for Testing
 INSERT INTO patients (first_name, last_name, email, password_harsh, phone, date_of_birth, gender, address)
 VALUES ('Moses', 'Mwai', 'mosesmwai100@gmail.com', '<hashed_password1!>', '+254769694900', '2024-11-27', 'Male', 'Kitusuru, Nairobi');
